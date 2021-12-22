@@ -75,7 +75,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Killersparrow0/EvaMaria-edited-killersparrow0
+git clone https://github.com/muralitheprogrammer/MW-BOT
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
