@@ -10,7 +10,7 @@
 
 [![Stars](https://img.shields.io/github/stars/muralitheprogrammer/MW-BOT?style=flat-square&color=yellow)](https://github.com/muralitheprogrammer/MW-BOT/stargazers)
 [![Forks](https://img.shields.io/github/forks/muralitheprogrammer/MW-BOT?style=flat-square&color=orange)](https://github.com/muralitheprogrammer/MW-BOT/fork)
-[![Size](https://img.shields.io/github/repo-size/muralitheprogrammer/MW-BOTstyle=flat-square&color=green)](https://github.com/muralitheprogrammer/MW-BOT/)   
+[![Size](https://img.shields.io/github/repo-size/muralitheprogrammer/MW-BOTstyle=flat-square&color=green)](https://github.com/muralitheprogrammer/MW-BOT/size)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/muralitheprogrammer/MW-BOT)   
 [![Contributors](https://img.shields.io/github/contributors/muralitheprogrammer/MW-BOT?style=flat-square&color=green)](https://github.com/muralitheprogrammer/MW-BOT/graphs/contributors)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MW-BOT/blob/main/LICENSE)
