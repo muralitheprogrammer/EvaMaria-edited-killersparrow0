@@ -1,19 +1,19 @@
 ### JUST KANGED FROM [EVA MARIA](https://github/MRK-YT/EcaMaria.com) ###
 
 <p align="center">
-  <img src="logo0.jpeg" alt="EvaMaria-edited-killersparrow0">
+  <img src="logo0.jpeg" alt="MW-BOT">
 </p>
 <h1 align="center">
   <b> EvaMaria-edited-killersparrow0 </b>
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/Killersparrow0/EvaMaria-edited-killersparrow0?style=flat-square&color=yellow)](https://github.com/Killersparrow0/EvaMaria-edited-killersparrow0/stargazers)
-[![Forks](https://img.shields.io/github/forks/Killersparrow0/EvaMaria-edited-killersparrow0?style=flat-square&color=orange)](https://github.com/Killersparrow0/EvaMaria-edited-killersparrow0/fork)
-[![Size](https://img.shields.io/github/repo-size/Killersparrow0/EvaMaria-edited-killersparrow0?style=flat-square&color=green)](https://github.com/Killersparrow0/EvaMaria-edited-killersparrow0/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Killersparrow0/EvaMaria-edited-killersparrow0)   
-[![Contributors](https://img.shields.io/github/contributors/Killersparrow0/EvaMaria-edited-killersparrow0?style=flat-square&color=green)](https://github.com/Killersparrow0/EvaMaria-edited-killersparrow0/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvaMaria-edited-killersparrow0/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/muralitheprogrammer/MW-BOT?style=flat-square&color=yellow)](https://github.com/muralitheprogrammer/MW-BOT/stargazers)
+[![Forks](https://img.shields.io/github/forks/muralitheprogrammer/MW-BOT?style=flat-square&color=orange)](https://github.com/muralitheprogrammer/MW-BOT/fork)
+[![Size](https://img.shields.io/github/repo-size/muralitheprogrammer/MW-BOTstyle=flat-square&color=green)](https://github.com/muralitheprogrammer/MW-BOT/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/muralitheprogrammer/MW-BOT)   
+[![Contributors](https://img.shields.io/github/contributors/muralitheprogrammer/MW-BOT?style=flat-square&color=green)](https://github.com/muralitheprogrammer/MW-BOT/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MW-BOT/blob/main/LICENSE)
 [![Sparkline](https://stars.medv.io/EvaMaria-edited-killersparrow0.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
 
