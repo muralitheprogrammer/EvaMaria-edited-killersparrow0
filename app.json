@@ -1,5 +1,5 @@
 {
-    "name": "EvaMaria-edited-killersparrow0",
+    "name": "MW-BOT",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Killersparrow0/EvaMaria-edited-killersparrow0",
-    "repository": "https://github.com/Killersparrow0/EvaMaria-edited-killersparrow0",
+    "website": "https://github.com/muralitheprogrammer/MW-BOT",
+    "repository": "https://github.com/muralitheprogrammer/MW-BOT",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
